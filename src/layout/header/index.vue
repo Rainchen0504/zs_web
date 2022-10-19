@@ -1,7 +1,5 @@
 <template>
-  <div>
-    <router-view></router-view>
-  </div>
+  <div>头部部分</div>
 </template>
 
 <script setup lang="ts"></script>
